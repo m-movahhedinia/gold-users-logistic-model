@@ -1,2 +1,0 @@
-It is highly recommended to open the project in nbviewer. You can use the link below:
-http://nbviewer.jupyter.org/github/m-movahhedinia/Gold-users-logistic-model/blob/master/Code/Project_gold-v_1_part_1.ipynb
